@@ -1,0 +1,50 @@
+baseURL: http://example.com/
+languageCode: zh-cn
+title: 跨境可再生资源LCIA模拟仿真平台
+theme: minimal
+# disqusShortname: username
+# googleAnalytics: ''
+params:
+  accent: #abcdef
+  author: Tiger
+  backgroundColor: white
+  description: “环境归趋-人体暴露-健康损害”本土化评估模型
+  font: Raleway
+  githubUsername: '#'
+  highlight: yes
+  highlightLanguages:
+    - go
+    - haskell
+    - kotlin
+    - scala
+    - swift
+  highlightStyle: default
+  showBorder: yes
+menu:
+#   icon:
+#     - name: fas fa-envelope
+#       url: mailto:me@example.com
+#       weight: 1
+#     - name: fab fa-github
+#       url: https://github.com/username/
+#       weight: 2
+#     - name: fab fa-twitter
+#       url: https://twitter.com/username/
+#       weight: 3
+#     - name: fab fa-linkedin
+#       url: https://www.linkedin.com/in/username/
+#       weight: 4
+#     - name: fab fa-stack-overflow
+#       url: https://www.stackoverflow.com/username/
+#       weight: 5
+  main:
+    - name: “环境归趋-人体暴露-健康损害”本土化评估模型
+      url: /
+      weight: 1
+    - name: 跨境可再生资源产业链LCA评估方法
+      url: /software/
+      weight: 2
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
