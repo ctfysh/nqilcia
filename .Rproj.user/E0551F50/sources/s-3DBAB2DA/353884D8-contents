@@ -1,4 +1,4 @@
-baseURL: http://example.com/
+baseURL: /
 languageCode: zh-cn
 title: 跨境可再生资源LCIA模拟仿真平台
 theme: minimal
