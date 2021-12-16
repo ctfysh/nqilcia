@@ -9,16 +9,16 @@ params:
   author: Tiger
   backgroundColor: white
   description: “环境归趋-人体暴露-健康损害”本土化评估模型
-  font: Raleway
-  githubUsername: '#'
-  highlight: yes
-  highlightLanguages:
-    - go
-    - haskell
-    - kotlin
-    - scala
-    - swift
-  highlightStyle: default
+  # font: Raleway
+  # githubUsername: '#'
+  # highlight: yes
+  # highlightLanguages:
+  #   - go
+  #   - haskell
+  #   - kotlin
+  #   - scala
+  #   - swift
+  # highlightStyle: default
   showBorder: yes
 menu:
 #   icon:
